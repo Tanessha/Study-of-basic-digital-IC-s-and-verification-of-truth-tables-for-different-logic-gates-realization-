@@ -1,6 +1,6 @@
 ## Name: Tanessha Kannan
 ## RegisterNumber:  23006086
-## Experiment no:  Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+## Experiment no: 1- Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
 ##  AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
