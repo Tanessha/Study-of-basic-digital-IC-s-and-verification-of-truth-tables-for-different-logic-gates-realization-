@@ -8,16 +8,23 @@ To study about the different digital IC’s and to verify the truth table in Qua
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
 ## Theory
-#Introduction
+# Introduction
 Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
 AND gate
+
 OR gate
+
 NOT gate
+
 NAND gate
+
 NOR gate
+
 Ex-OR gate
+
 Ex-NOR gate
+
 1) AND gate
 The AND gate is an electronic circuit that gives a high output (1) only if all its inputs are high. A dot (.) is used to show the AND operation i.e. A.B or can be written as AB
 
@@ -59,6 +66,7 @@ Switch ON the main switch
 Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
+
 ## Program:
 module flipflops(a,b,y1,y2,y3,y4,y5,y6,y7);
 
@@ -87,6 +95,7 @@ endmodule
 
 ## Truthtable:
 
+![Screenshot 2023-11-25 083326](https://github.com/Tanessha/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/140876194/4186b844-7ca7-49da-a10f-073f6532fa05)
 
 ## Timing Diagram:
 ![Screenshot 2023-11-24 151957](https://github.com/Tanessha/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/140876194/3490b9e9-fa47-4690-b797-88149ac8463b)
