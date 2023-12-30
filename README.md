@@ -1,6 +1,6 @@
 ## Name: Tanessha Kannan
 ## RegisterNumber:  23006086
-## Experiment no: 1- Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+## Experiment No: 1- Study of basic digital IC s and verification of truth tables for different logic gates realization 
 ##  AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
@@ -98,7 +98,8 @@ endmodule
 ![Screenshot 2023-11-25 083326](https://github.com/Tanessha/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/140876194/4186b844-7ca7-49da-a10f-073f6532fa05)
 
 ## Timing Diagram:
-![Screenshot 2023-11-24 151957](https://github.com/Tanessha/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/140876194/3490b9e9-fa47-4690-b797-88149ac8463b)
+![Screenshot 2023-12-30 154729](https://github.com/Tanessha/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/140876194/16fdeaac-51c4-481b-b711-545bef71cdbe)
+
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
